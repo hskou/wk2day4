@@ -1,0 +1,33 @@
+.parent {
+    margin: 30px 0 30px 0;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    }
+.box-one {
+      display: inline-block;
+      background-color: #ffffff;
+      border: 1px solid #000000;
+      border-radius: 15px;
+      margin-top: 80px;
+      height: 360px;
+      width: 360px;
+      box-sizing: border-box;
+    }
+h1 {
+    margin: 30px;
+}
+input[type=text] {
+    width: 180px;
+    padding: 8px;
+    margin: 10px;
+}
+input[type=email] {
+    width: 180px;
+    padding: 8px;
+    margin: 10px;
+}
+input[type=submit] {
+    margin: 30px 0 30px 0;
+    width: 90%
+
+}
